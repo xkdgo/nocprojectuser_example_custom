@@ -1,1 +1,1 @@
-# nocprojectuser_example_custom
+# This repo is demo for NOCProjectUser YouTube channel
